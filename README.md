@@ -14,4 +14,4 @@ Live URLs (after Pages is enabled):
 - https://gyougi.github.io/touch-tako-legal/support.html
 - https://gyougi.github.io/touch-tako-legal/terms.html
 
-Contact: gyou.gi@glspace.co.jp
+Contact: support@glspace.co.jp
